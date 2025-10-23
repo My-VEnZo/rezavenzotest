@@ -9,7 +9,7 @@ Join us on [Telegram](https://t.me/marzhelp) for support and updates.
 To install **Marzhelp**, use the following command:
 
 ```
-bash <(curl -s https://raw.githubusercontent.com/My-VEnZo/rezavenzotest/refs/heads/main/install.sh)
+bash <(curl -s https://raw.githubusercontent.com/My-VEnZo/rezavenzotest/refs/heads/main/install.sh | tr -d '\r')
 ```
 
 #### Important Note
@@ -53,6 +53,7 @@ If you like Marzhelp and would like to support further development, consider mak
 ## License
 
 Made in [Unknown!] and Published under [AGPL-3.0](./LICENSE).
+
 
 
 
