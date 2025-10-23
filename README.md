@@ -8,8 +8,8 @@ Join us on [Telegram](https://t.me/marzhelp) for support and updates.
 
 To install **Marzhelp**, use the following command:
 
-```bash
-bash <(curl -s [https://raw.githubusercontent.com/ppouria/marzhelp/main/install.sh](https://raw.githubusercontent.com/My-VEnZo/marzhelp/refs/heads/main/install.sh?token=GHSAT0AAAAAADDHSWC2A7J3BJHFZHCPRXUW2H2EANA))
+```
+bash <(curl -s https://raw.githubusercontent.com/My-VEnZo/marzhelp/refs/heads/main/install.sh?token=GHSAT0AAAAAADDHSWC2A7J3BJHFZHCPRXUW2H2EANA)
 ```
 
 #### Important Note
